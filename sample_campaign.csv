@@ -1,0 +1,16 @@
+post_id,upload_date,media_type,likes,comments,shares,saves,reach,impressions,caption_length,hashtags_count,followers_gained,traffic_source,engagement_rate,content_category
+1,2024-01-15,photo,1250,45,25,45,5000,6000,120,8,150,organic,5.2,lifestyle
+2,2024-01-16,video,2100,78,35,60,8000,9500,85,12,200,organic,7.8,entertainment
+3,2024-01-17,photo,980,32,20,30,4000,4800,95,6,120,organic,4.5,fashion
+4,2024-01-18,carousel,1850,65,40,55,7200,8500,150,15,180,organic,9.1,food
+5,2024-01-19,video,1680,52,28,42,6500,7800,110,10,160,organic,6.3,travel
+6,2024-01-20,photo,1950,68,32,50,7500,9000,135,9,190,organic,8.5,technology
+7,2024-01-21,carousel,920,28,18,28,3800,4500,100,7,110,organic,3.9,beauty
+8,2024-01-22,video,1780,58,30,48,6800,8200,125,11,170,organic,7.2,sports
+9,2024-01-23,photo,1420,48,24,38,5500,6700,115,8,140,organic,5.8,health
+10,2024-01-24,carousel,2200,85,45,65,8500,10000,160,18,210,organic,9.5,education
+11,2024-01-25,video,1050,35,15,25,4200,5000,90,5,100,organic,4.2,music
+12,2024-01-26,photo,1620,55,27,40,6200,7400,130,9,155,organic,6.7,art
+13,2024-01-27,carousel,1980,72,38,58,7800,9200,145,16,195,organic,8.9,business
+14,2024-01-28,video,1350,42,22,35,5200,6300,105,7,130,organic,5.4,news
+15,2024-01-29,photo,1820,62,31,47,7000,8400,140,10,175,organic,7.6,photography
